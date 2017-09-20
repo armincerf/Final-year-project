@@ -15,6 +15,8 @@ The goal of the project was to create a tool which is easy to use and exports hi
 
 The online demo has the admin username and password filled in by default. Simply press the 'log me in' button to log in.
 
+A user guide to help you understand the function of the application is available in userguide.pdf.
+
 ## Getting the Code
 
 To get a local copy of the current code, clone it using git:
@@ -22,4 +24,5 @@ To get a local copy of the current code, clone it using git:
     $ git clone git://github.com/armincerf/Final-year-project
     $ cd Final-year-project
 
-Then refer to userguide.pdf for detailed installation instructions.
+Then refer to System Manual (page 82 of report.pdf) for detailed installation instructions.
+
